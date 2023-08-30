@@ -1,4 +1,4 @@
-![Screenshot from 2023-08-12 18-25-37](https://github.com/aljebraschool/face_detection_model/assets/48502023/3bfedc11-6864-45cd-8c7a-a5b7af7feb20)# face_detection_model
+face_detection_model
 
 The project was implemented during my summer internship as a graduate research intern where i was saddled with the task of building a face detection model that can help detect and measure the attention of students in digital learning class. This is the intial implementation of the project as it hopes to detect more facial expressions of students in order to perfected classify their state of mind while learning. 
 
